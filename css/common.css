@@ -163,7 +163,7 @@ header .inner_submenu .inner_submenu_text li:first-child::before {
 }
 
 header .inner_submenu .inner_submenu_text li a {
-  font-size: 12px;
+  font-size: 13px;
   padding: 11px 16px;
   display: block;
   color: #656565;
