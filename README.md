@@ -1,5 +1,5 @@
-# Starbucks 클론코딩
-HTML과 CSS를 사용하여 Starbucks 사이트를 클론 코딩 하였다.
+# Starbucks
+HTML과 CSS를 사용하여 Starbucks 홈페이지를 만든다.
 
 # GSAP & ScrollToPlugin
 GSAP은 자바스크립트로 제어하는 타임라인 기반의 애니메이션 라이브러리이다.
