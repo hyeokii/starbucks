@@ -14,6 +14,7 @@ window.addEventListener(
       });
       //버튼 보이기
       gsap.to(toTopEl, 0.2, {
+        opacity: 1,
         x: 0,
       });
     } else {
@@ -24,6 +25,7 @@ window.addEventListener(
       });
       //버튼 숨기기
       gsap.to(toTopEl, 0.2, {
+        opacity: 0,
         x: 100,
       });
     }
